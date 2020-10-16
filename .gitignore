@@ -1,0 +1,6 @@
+*.swp
+*.log
+.env
+.vscode
+build/results/*.xml
+node_modules/

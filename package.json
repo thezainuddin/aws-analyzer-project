@@ -1,0 +1,23 @@
+{
+  "name": "github-twitter-api-mashup",
+  "version": "1.0.0",
+  "description": "A mashup of twitter and github API. Search any projects on github and show the tweets corresponding to those projects",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha || exit 0"
+  },
+  "author": "Zain Uddin",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^3.1.2",
+    "@octokit/rest": "^18.0.6",
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
