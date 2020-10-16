@@ -17,6 +17,7 @@ describe('App', function(){
     it('Test 1: Twitter API function should return Promise',function(){
         // call the uut
         console.log("Test statring");
+        console.log("This is Zain")
        // let result = uutFuncTwit();
         //console.log(result);
         //console.log(typeOf(result));
