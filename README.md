@@ -1,6 +1,5 @@
 # Github and Twitter API Mashup
-# Designer : Zain Uddin
-contact: uddin.zain@gmail.com
+
 
 ## Objective
 
