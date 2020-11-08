@@ -1,4 +1,4 @@
-console.log('Welcome to GitHub-Twitter API Mashup');
+console.log('Welcome to GitHub-Twitter API Mashup  ');
 //
 const express = require('express');
 const web = express();          // init express framework
